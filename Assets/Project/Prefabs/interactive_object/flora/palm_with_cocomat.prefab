@@ -77,7 +77,7 @@ GameObject:
   - component: {fileID: 8351330877170321439}
   - component: {fileID: 8351330877170321438}
   m_Layer: 0
-  m_Name: Palm_with_coconut_01
+  m_Name: palm_with_coconut_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -204,7 +204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4955499005786511247, guid: 6826f92785db63c45ab86d24647a75a2, type: 3}
       propertyPath: m_Name
-      value: coconat_03
+      value: coconut_03
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6826f92785db63c45ab86d24647a75a2, type: 3}
@@ -266,7 +266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4951677024690379231, guid: 75af28c24b1550140b6ae1a661395c65, type: 3}
       propertyPath: m_Name
-      value: coconat_01
+      value: coconut_01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75af28c24b1550140b6ae1a661395c65, type: 3}
@@ -328,7 +328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1131846398536987788, guid: 5f42995ab96176844b1d4e81900aa451, type: 3}
       propertyPath: m_Name
-      value: coconat_02
+      value: coconut_02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f42995ab96176844b1d4e81900aa451, type: 3}

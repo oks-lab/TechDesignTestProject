@@ -1340,7 +1340,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 358988856882867233, guid: 5f881a91ec0c9ef4c83a88c7c99c2416, type: 3}
       propertyPath: m_Name
-      value: palm_with_cocomat
+      value: palm_with_coconut
       objectReference: {fileID: 0}
     - target: {fileID: 1080303462111429784, guid: 5f881a91ec0c9ef4c83a88c7c99c2416, type: 3}
       propertyPath: m_RootOrder
@@ -1574,10 +1574,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1678362118}
     m_Modifications:
-    - target: {fileID: 8988546069885537410, guid: 709eb9ea571624d40a833874c5a2843e, type: 3}
-      propertyPath: m_Volume
-      value: 0.663
-      objectReference: {fileID: 0}
     - target: {fileID: 8988546069947546418, guid: 709eb9ea571624d40a833874c5a2843e, type: 3}
       propertyPath: m_RootOrder
       value: 0

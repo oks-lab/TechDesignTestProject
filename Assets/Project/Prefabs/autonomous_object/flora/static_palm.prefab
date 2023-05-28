@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 797800352440077128}
   - component: {fileID: 797800352440077131}
   m_Layer: 0
-  m_Name: Palm_07
+  m_Name: palm_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,7 +30,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 0
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800352440077131
 SpriteRenderer:
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 797800352495736569}
   - component: {fileID: 797800352495736568}
   m_Layer: 0
-  m_Name: Palm_01
+  m_Name: palm_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -114,7 +114,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800352495736568
 SpriteRenderer:
@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 797800352624136925}
   - component: {fileID: 797800352624136922}
   m_Layer: 0
-  m_Name: Palm_05
+  m_Name: palm_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -198,7 +198,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800352624136922
 SpriteRenderer:
@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 797800352946443617}
   - component: {fileID: 797800352946443616}
   m_Layer: 0
-  m_Name: Palm_02
+  m_Name: palm_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -347,7 +347,7 @@ GameObject:
   - component: {fileID: 797800353548856729}
   - component: {fileID: 797800353548856726}
   m_Layer: 0
-  m_Name: Palm_06
+  m_Name: palm_06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -366,7 +366,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800353548856726
 SpriteRenderer:
@@ -448,13 +448,13 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 797800352440077128}
-  - {fileID: 797800352946443617}
   - {fileID: 797800352495736569}
+  - {fileID: 797800352946443617}
   - {fileID: 797800353847389997}
   - {fileID: 797800354132065837}
   - {fileID: 797800352624136925}
   - {fileID: 797800353548856729}
+  - {fileID: 797800352440077128}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 797800353847389997}
   - component: {fileID: 797800353847389996}
   m_Layer: 0
-  m_Name: Palm_03
+  m_Name: palm_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -488,7 +488,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800353847389996
 SpriteRenderer:
@@ -553,7 +553,7 @@ GameObject:
   - component: {fileID: 797800354132065837}
   - component: {fileID: 797800354132065836}
   m_Layer: 0
-  m_Name: Pulm_04
+  m_Name: pulm_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -572,7 +572,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 797800353744993203}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &797800354132065836
 SpriteRenderer:
